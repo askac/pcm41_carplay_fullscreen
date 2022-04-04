@@ -7,4 +7,4 @@ then
 fi
 
 
-jar cfv $1 $(find de -type f -name '*.class')
+jar cfv $1 de/audi/app/terminalmode/pgen2/PGen2TMConfiguration.class

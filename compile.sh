@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CP=MHI2_TW_POG24_K1103_lsd.jar         
+#CP=../MHI2_TW_POG24_K1103_lsd.jar         
 SOURCE=1.4
 TARGET=1.4
 
@@ -18,8 +18,7 @@ for x in $(find de/ -type f -name '*.java')
 do
 	if [ ! -f $(echo $x|sed s/.java$/.class/) ]
 	then
-		#javac -source $SOURCE -target $TARGET -cp tmp.jar:$CP $x
-		javac -source $SOURCE -target $TARGET -cp $CP $x
+		javac -source $SOURCE -target $TARGET $x
 	else
 		echo "... skip $x because $(echo $x|sed s/.java$/.class/) exists"
 	fi
