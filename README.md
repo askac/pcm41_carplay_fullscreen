@@ -1,6 +1,7 @@
-# Porsche PCM 4.1 Carplay Full Screen hack.
+# Porsche PCM 4.1 Carplay Full Screen hack. (Also works on Bentley BYG24)
 
 Full screen hack for PCM4.1
+It should also work on Beltley POG24 MU.
 
 You have to install JDK 1.8 for compiling.
 
