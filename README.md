@@ -13,3 +13,4 @@ And it sould be workd.
 
 Tested in MHI2_TW_POG24_P08xx and higher
 
+![Result Example](https://github.com/askac/pcm41_carplay_fullscreen/raw/main/photo_2022-04-04_12-46-53.jpg)
