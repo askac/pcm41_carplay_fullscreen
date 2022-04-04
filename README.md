@@ -1,4 +1,4 @@
-# Porsche PCM 4.1 Carplay full screen hack.
+# Porsche PCM 4.1 Carplay Full Screen hack.
 
 Full screen hack for PCM4.1
 
