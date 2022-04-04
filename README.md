@@ -1,4 +1,5 @@
-# pcm41_carplay_fullscreen
+# Porsche PCM 4.1 Carplay full screen hack.
+
 Full screen hack for PCM4.1
 
 You will need install JDK 1.8.
