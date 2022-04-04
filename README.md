@@ -5,7 +5,7 @@ It should also work on Beltley POG24 MU.
 
 You have to install JDK 1.8 for compiling.
 
-Compile using compile.sh
+Compile it by using compile.sh
 
 Or you can use my precompiled jar.
 
