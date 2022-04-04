@@ -2,13 +2,14 @@
 
 Full screen hack for PCM4.1
 
-You will need install JDK 1.8.
+You have to install JDK 1.8 for compiling.
 
-Compile with compile.sh
+Compile using compile.sh
 
-Also you can use my precompiled jar.
+Or you can use my precompiled jar.
 
 Put the jar to /mnt/app/eso/hmi/lsd/jars
 And it sould be workd.
 
 Tested in MHI2_TW_POG24_P08xx and higher
+
