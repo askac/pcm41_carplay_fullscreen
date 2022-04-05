@@ -21,4 +21,4 @@ Tested on MHI2_TW_POG24_P08xx and higher<br>
 Also full screen+ (i.e. No original widget buttons and status bar) hack can be done with more complex modification.
 PCM5 can also be hacked with similar but more complex way.
 
-I have no plan to public them.
+I have no plan to public them now.
