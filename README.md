@@ -14,6 +14,11 @@ Or you can use my precompiled jar.<br><br>
 Put the jar to /mnt/app/eso/hmi/lsd/jars<br>
 And it sould work.<br><br>
 
-Tested in MHI2_TW_POG24_P08xx and higher<br>
+Tested on MHI2_TW_POG24_P08xx and higher<br>
 
 ![Result Example](https://github.com/askac/pcm41_carplay_fullscreen/raw/main/photo_2022-04-04_12-46-53.jpg)
+
+Also full screen+ (i.e. No original widget buttons and status bar) hack can be done with more complex modification.
+PCM5 can also be hacked with similar but more complex way.
+
+I have no plan to public them.
