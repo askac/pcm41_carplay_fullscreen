@@ -12,7 +12,7 @@ Please not the jar should contains 1 class, other class are stub for compiling.<
 Or you can use my precompiled jar.<br><br>
 
 Put the jar to /mnt/app/eso/hmi/lsd/jars<br>
-And it sould be workd.<br><br>
+And it sould work.<br><br>
 
 Tested in MHI2_TW_POG24_P08xx and higher<br>
 
