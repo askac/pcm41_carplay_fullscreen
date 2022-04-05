@@ -7,7 +7,8 @@ You have to install JDK 1.8 for compiling.<br>
 ~~Also you need lsd.jxe from /ifs/lsd.jxe and convert it to jar.<br>~~
 ~~(There are some projects jxe2jar on github doing this. e.g. [https://github.com/spacemeowx2/jxe2jar](https://github.com/spacemeowx2/jxe2jar))~~
 
-Compile it by using compile.sh<br>
+Compile it by using compile.sh, make jar with pack.sh (also you can check the jar command inside)<br>
+Please not the jar should contains 1 class, other class are stub for compiling.<br>
 Or you can use my precompiled jar.<br><br>
 
 Put the jar to /mnt/app/eso/hmi/lsd/jars<br>
